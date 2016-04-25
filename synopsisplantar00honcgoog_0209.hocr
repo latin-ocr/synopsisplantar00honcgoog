@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsisplantar00honcgoog_0209.png"; bbox 0 0 2835 4821; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 527 445 2304 550">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 527 445 2304 550">
+     <span class='ocr_line' id='line_1_1' title="bbox 527 445 2304 550; baseline -0.001 -17"><span class='ocrx_word' id='word_1_1' title='bbox 527 445 1308 534; x_wconf 71' lang='lat' dir='ltr'>PENTANDMA</span> <span class='ocrx_word' id='word_1_2' title='bbox 1355 449 2101 530; x_wconf 78' lang='lat' dir='ltr'>MONOGYNIA.</span> <span class='ocrx_word' id='word_1_3' title='bbox 2153 477 2304 550; x_wconf 60' lang='grc' dir='ltr'>ις,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 592 591 2296 798">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 424 591 2296 798">
+     <span class='ocr_line' id='line_1_2' title="bbox 592 591 2296 732; baseline 0 -29"><span class='ocrx_word' id='word_1_4' title='bbox 592 591 854 732; x_wconf 43' lang='lat'>225131.</span> <span class='ocrx_word' id='word_1_5' title='bbox 888 635 1183 705; x_wconf 73' lang='lat' dir='ltr'><em>Daerrten</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1213 654 1269 701; x_wconf 86' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1313 648 1473 719; x_wconf 76' lang='lat'><em>193.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1507 631 1788 703; x_wconf 76' lang='lat' dir='ltr'><em>Ellwert</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1819 658 1886 705; x_wconf 83' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1920 632 2296 712; x_wconf 71' lang='lat' dir='ltr'>161.1·:11r11.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 605 726 2288 798; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 605 736 800 798; x_wconf 70' lang='lat' dir='ltr'><strong><em>hamt.</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 841 756 884 798; x_wconf 90' lang='lat' dir='ltr'>n</span> <span class='ocrx_word' id='word_1_13' title='bbox 953 737 1105 798; x_wconf 80' lang='lat'>126.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1152 726 1345 798; x_wconf 76' lang='lat' dir='ltr'><em>Fabr.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1386 736 1474 798; x_wconf 79' lang='lat' dir='ltr'>H.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1536 737 1694 798; x_wconf 75' lang='lat'>178.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1749 733 1928 798; x_wconf 69' lang='lat' dir='ltr'><em>eled.</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1961 727 2119 798; x_wconf 81' lang='lat' dir='ltr'><em>Abh.</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 2158 735 2288 798; x_wconf 88' lang='lat'>111.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsisplantar00honcgoog_0200.png"; bbox 0 0 2835 4821; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 565 437 2376 742">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 565 437 2376 742">
+     <span class='ocr_line' id='line_1_1' title="bbox 565 437 2117 577; baseline -0.011 -15"><span class='ocrx_word' id='word_1_1' title='bbox 565 499 703 577; x_wconf 65' lang='grc' dir='ltr'><em>ις·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 757 482 760 484; x_wconf 93' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1182 460 1640 570; x_wconf 55' lang='grc' dir='ltr'><em>νιιιιιιεῑεαε</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1692 456 1807 547; x_wconf 56' lang='lat' dir='ltr'><em>vs</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2045 437 2117 546; x_wconf 77' lang='grc' dir='ltr'><em>ζ’·</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 623 637 2376 742; baseline -0.01 -13"><span class='ocrx_word' id='word_1_6' title='bbox 623 678 787 742; x_wconf 74' lang='lat'><em>133·</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 837 650 1243 725; x_wconf 60' lang='lat' dir='ltr'><em>Ammonem</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1265 647 1406 739; x_wconf 48' lang='lat' dir='ltr'><em>‚Lin</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1457 659 1602 742; x_wconf 76' lang='lat' dir='ltr'><em>gen.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1631 668 1790 735; x_wconf 82' lang='lat'><strong>209.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1825 637 2376 734; x_wconf 52' lang='lat' dir='ltr'><em>Manusharntsclu</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
